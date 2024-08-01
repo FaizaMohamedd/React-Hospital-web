@@ -19,7 +19,7 @@ React Hook Form: For managing form state and validation.
 Installation
 Clone the repository:
 
-Copy
+
 git clone https://github.com/FaizaMohamedd/React-Hospital-web
 
 Navigate to the project directory:
@@ -34,7 +34,9 @@ Start the development server:
 
 
 npm run dev
-https://app.netlify.com/sites/musical-vacherin-54d77b/deploys/66aa6ecb21856611d458c60.
+
+https://main--musical-vacherin-54d77b.netlify.app/
+
 Deployment
 To deploy the website, you can use a hosting service like Netlify, Vercel, or GitHub Pages. The specific deployment steps may vary depending on the hosting platform you choose.
 
